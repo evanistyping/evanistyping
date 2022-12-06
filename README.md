@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan!
 - 👀 I’m interested in software engineering as well as cyber security.
-- 🌱 I’m currently a premajor at Western Washington University.
+- 🌱 I’m currently a 4th year CS student at Western Washington University.
 
 
 <!---
